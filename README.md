@@ -1,10 +1,10 @@
-# Hi 👋, I'm Sushma Konam
+# Hi , I'm Sushma Konam
 
 🎓 B.Tech EEE Student  
-💻 Interested in IoT, Embedded Systems & Networking  
-🌱 Currently learning Python & Machine Learning
+Interested in IoT, Embedded Systems & Networking  
+Currently learning Python & Machine Learning
 
-## 🛠️ Skills
+# Skills
 
 - Arduino
 - ESP32
@@ -13,19 +13,19 @@
 - AutoCAD
 - Embedded Systems
 
-## 🚀 Projects
+# Projects
 
 - Smart Medication Reminder & Health Alert System
 - Intelligent Fire Safety Vehicle
 - Electrical Feeder & Busbar Project
 
-## 📚 Currently Learning
+#Currently Learning
 
 - Python
 - Machine Learning
 - Git & GitHub
 
-## 🎯 Career Goal
+#Career Goal
 
 Interested in opportunities related to IoT, Embedded Systems, Networking and Technology.
 
