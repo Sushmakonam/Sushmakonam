@@ -16,7 +16,6 @@ Currently learning Python & Machine Learning
 # Projects
 
 - Smart Medication Reminder & Health Alert System
-- Intelligent Fire Safety Vehicle
 - Electrical Feeder & Busbar Project
 
 #Currently Learning
